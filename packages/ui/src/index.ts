@@ -10,6 +10,7 @@ export {
   CardContent,
 } from "./components/card";
 export { Alert, AlertTitle, AlertDescription } from "./components/alert";
+export { Input } from "./components/input";
 
 // Export utilities
 export { cn } from "./lib/utils";
@@ -18,3 +19,4 @@ export { cn } from "./lib/utils";
 export type { ButtonProps } from "./components/button";
 export type { BadgeProps } from "./components/badge";
 export type { AlertProps } from "./components/alert";
+export type { InputProps } from "./components/input";
