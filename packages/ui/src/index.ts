@@ -12,6 +12,7 @@ export {
 export { Alert, AlertTitle, AlertDescription } from "./components/alert";
 export { Input } from "./components/input";
 export { Label } from "./components/label";
+export { Checkbox } from "./components/checkbox";
 
 // Export utilities
 export { cn } from "./lib/utils";
