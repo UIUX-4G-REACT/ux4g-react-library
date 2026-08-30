@@ -11,6 +11,7 @@ export {
 } from "./components/card";
 export { Alert, AlertTitle, AlertDescription } from "./components/alert";
 export { Input } from "./components/input";
+export { Label } from "./components/label";
 
 // Export utilities
 export { cn } from "./lib/utils";
